@@ -5,3 +5,11 @@ __pycache__/
 *.pyd
 .env
 
+
+# Added improvements
+.pytest_cache/
+node_modules/
+.DS_Store
+backend/models/*.json
+backend/uploads/*
+
